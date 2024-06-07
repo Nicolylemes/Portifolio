@@ -1,9 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+img {
+
+    width: 10%;
+    height: auto;
+}
+
+
 h1 {
     color: rgb(78, 165, 47);
     text-align: center;
+    font-family: 'Lobster';
 }
 
 h2 {
     
     color: rgb(144, 203, 126);
+    font-family: 'Lobster';
+}
+
+p {
+    font-family: 'Lobster Two';
+}
+
+li {
+    font-family: 'Lobster Two';
+}
+
+body {
+    background-color: rgb(248, 255, 247);
+}
+
+footer {
+    color: rgb(195, 40, 40);
 }
