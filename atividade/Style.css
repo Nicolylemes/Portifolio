@@ -16,6 +16,11 @@ img {
     height: auto;
 }
 
+    ul img{
+    width: 25px;
+    height: auto;
+    }
+
 h4{
     margin: 0px 10px;
 }
@@ -26,6 +31,11 @@ h1 {
     font-family: 'Lobster';
     background-color: rgb(217, 252, 217);
     padding: 10px;
+}
+
+h6{
+    margin: 110px 0;
+    color: white;
 }
 
 h2 {
